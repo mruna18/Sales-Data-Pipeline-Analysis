@@ -1,6 +1,4 @@
-# Sales-Data-Pipeline-Analysis
-
-# 📊 Sales Data Pipeline & Analysis  
+# Sales-Data-Pipeline-Analysis 
 
 ## 🚀 Project Overview  
 This project is a **Sales Data Pipeline & Analysis** system built using **Python, Pandas, MySQL, Matplotlib, and Seaborn**.  
